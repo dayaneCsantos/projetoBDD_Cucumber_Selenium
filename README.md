@@ -26,7 +26,7 @@
 * O caminho para execução do teste funcional src\test\java\br\ce\wcaquino\runners\RunnerFunTest.jav 
 * Caso há caracteres especias, para alterar para UTF-8, clique na pasta do projeto com o botão direito, clique em properties, em seguida em resource em text file encoding altere para UTF-8
 * Caso não tenha, instale o WebDriver for Chrome (versão correta do chrome, caso não faça isso, irá resultar em erro)
-* Após baixar o WebDrive para Chrome, adicine o endereço do arquivo no PATH da variavel de ambiente, caso necessário adicione como primeira linha do void em RunnerFunTest.java System.setProperty("webdriver.chrome.driver", "\\Users\\Will\\Downloads\\chromedriver_win32\\chromedriver.exe"), se for linux não precisar indicar o .exe; 
+* Após baixar o WebDrive para Chrome, adicine o endereço do arquivo no PATH da variavel de ambiente, caso necessário adicione como primeira linha do void em RunnerFunTest.java System.setProperty("webdriver.chrome.driver", "\\Users\\Dayane\\Downloads\\chromedriver_win32\\chromedriver.exe"), se for linux não precisar indicar o .exe; 
 * Agora sim! Só executar
 * O caminho para execução do teste unitário é src\test\java\br\ce\wcaquino\runners\RunnerTest.jav 
 
