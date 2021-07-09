@@ -1,4 +1,4 @@
-# Teste automatizado
+# Testes automatizados
 
 <img src= "https://i.imgur.com/VrU4R2Q.gif">  
 
